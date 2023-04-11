@@ -9,4 +9,6 @@ public class DemoTest {
 	}
 	
 	String name = "Amina";
+	
+	git pull origin main
 }
