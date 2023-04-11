@@ -9,6 +9,7 @@ public class DemoTest {
 	}
 	
 	String name = "Amina";
+	String juan = "Juan";
 	
 	
 	
